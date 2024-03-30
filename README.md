@@ -74,7 +74,7 @@ However, integrating Tesla robots into space missions aboard the Starship also p
 
 In conclusion, incorporating Tesla robots into SpaceX Starship missions could offer unprecedented capabilities for exploration and development in space. The synergy between robotics and human spaceflight holds the promise of accelerating our expansion into the cosmos, provided that the technical and logistical challenges are effectively addressed.
 
-### Cargo-Decicated
+### Cargo-Dedicated
 
 The deployment of cargo-dedicated SpaceX Starships to Mars is a critical component of the broader strategy for establishing a sustainable human presence on the Red Planet. These cargo missions are designed to pre-position essential supplies, equipment, and infrastructure necessary for subsequent crewed missions and long-term habitation.
 
