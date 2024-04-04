@@ -88,7 +88,7 @@ In summary, cargo-dedicated SpaceX Starships represent a foundational element of
 
 ### DALL-E 3
 
-While DALL-E 3 cannot directly depict SpaceX's Starship due to policy restrictions.
+DALL-E 3 cannot directly depict SpaceX's Starship due to policy restrictions.
 
 ### Protected Property
 
