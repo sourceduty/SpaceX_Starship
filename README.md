@@ -88,7 +88,7 @@ In summary, cargo-dedicated SpaceX Starships represent a foundational element of
 
 ### DALL-E 3
 
-While DALL-E 3 cannot directly depict SpaceX's Starship due to policy restrictions, its capacity to generate a wide range of alternative spacecraft designs allows for creative exploration and innovation in the field of space exploration. By providing visual representations of concepts that are yet to be realized, DALL-E 3 can stimulate imagination, inspire novel solutions, and contribute to the evolution of spacecraft design in pursuit of humanity's interstellar aspirations.
+While DALL-E 3 cannot directly depict SpaceX's Starship due to policy restrictions.
 
 ### Protected Property
 
