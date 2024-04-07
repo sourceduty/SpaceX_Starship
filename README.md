@@ -1,4 +1,4 @@
-![Example](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/8dc90ccd-9b69-4942-9265-001689832425)
+![Starship](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/d79a041c-5774-486f-8fff-f02c0dba4fc4)
 
 The SpaceX Starship represents a monumental leap in space exploration technology, epitomizing the culmination of years of engineering ingenuity and innovation. Designed as a fully reusable spacecraft, Starship is poised to significantly reduce the cost of space travel, making missions to the Moon, Mars, and beyond more feasible. Its stainless steel construction not only offers durability and heat resistance during re-entry but also imparts a futuristic aesthetic, setting it apart from traditional spacecraft designs.
 
@@ -7,6 +7,8 @@ Starship's ambitious design includes a two-stage configuration, with the first s
 Moreover, the development of Starship is a testament to SpaceX's vision of making life multiplanetary. The spacecraft's large payload capacity and habitable volume are key to supporting long-duration space missions, which are crucial for the exploration and potential colonization of other planets. As SpaceX continues to test and refine Starship, each milestone brings humanity one step closer to a future where interplanetary travel is a reality, opening up new possibilities for scientific discovery and human endeavor in the cosmos.
 
 ### Cargo Doors
+
+![Starship Doors](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/1825f86e-f183-490f-b3b2-e80db867e2d4)
 
 The concept of a "nose door" versus a "body door" on the SpaceX Starship introduces an intriguing aspect of spacecraft design, each with its unique functionalities and implications for mission architecture. A "nose door" positioned at the forefront of the Starship would likely serve specialized purposes, such as facilitating the deployment of large satellites or telescopes directly from the tip of the spacecraft. This configuration could offer a straight path for payload deployment, minimizing obstructions and potentially simplifying the release mechanisms. It might also provide a distinctive advantage for certain types of missions where direct exposure to space or specific orbital orientations are required immediately upon deployment.
 
@@ -75,6 +77,8 @@ However, integrating Tesla robots into space missions aboard the Starship also p
 In conclusion, incorporating Tesla robots into SpaceX Starship missions could offer unprecedented capabilities for exploration and development in space. The synergy between robotics and human spaceflight holds the promise of accelerating our expansion into the cosmos, provided that the technical and logistical challenges are effectively addressed.
 
 ### Cargo-Dedicated
+
+![SpaceX Starshipwreck](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/ae293595-8ac0-4c41-9c35-717c4ad248a9)
 
 The deployment of cargo-dedicated SpaceX Starships to Mars is a critical component of the broader strategy for establishing a sustainable human presence on the Red Planet. These cargo missions are designed to pre-position essential supplies, equipment, and infrastructure necessary for subsequent crewed missions and long-term habitation.
 
