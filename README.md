@@ -8,6 +8,8 @@ Starship's ambitious design includes a two-stage configuration, with the first s
 
 Moreover, the development of Starship is a testament to SpaceX's vision of making life multiplanetary. The spacecraft's large payload capacity and habitable volume are key to supporting long-duration space missions, which are crucial for the exploration and potential colonization of other planets. As SpaceX continues to test and refine Starship, each milestone brings humanity one step closer to a future where interplanetary travel is a reality, opening up new possibilities for scientific discovery and human endeavor in the cosmos.
 
+***
+
 <details><summary>Cargo Doors</summary>
 <br>
 
