@@ -177,7 +177,7 @@ Mechazilla facilitates the intricate restacking of SpaceX's Starship and its Sup
 
 The restacking process begins with the Super Heavy booster being carefully placed onto the launch pad, followed by the meticulous positioning of the Starship atop the booster. This delicate operation requires precise alignment to ensure the two components integrate seamlessly, establishing a secure and operational stack. Final checks confirm the mechanical, electrical, and fluid connections between the stages, setting the stage for another launch. This streamlined procedure, enabled by Mechazilla, exemplifies SpaceX's forward-thinking approach to space exploration, significantly reducing turnaround times and fostering the sustainability of space travel.
 
-### Lanch Tower
+### Launch Tower
 
 Mechazilla is not just a launch pad; it's an integral part of the SpaceX Starship launch and recovery system. It features robotic arms (known as the "chopsticks") designed to catch the Super Heavy booster upon its return, potentially reducing landing stresses and facilitating rapid reuse.
 
