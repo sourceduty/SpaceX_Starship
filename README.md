@@ -187,6 +187,8 @@ Mechazilla transforms the launch pad from a passive structure into an active par
 
 ### Rapid Restacking
 
+![Restacking](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/c5d998e3-b6b3-4cae-9110-129f44a52f74)
+
 In the future, the vision for rapid restacking of multiple Starships and their Super Heavy boosters, facilitated by systems like Mechazilla, could revolutionize space exploration and interplanetary travel. This capability would allow for an unprecedented frequency of launches, significantly reducing the time and costs associated with space missions. By streamlining the process of recovering, refurbishing, and restacking these colossal spacecraft components, SpaceX aims to achieve a cadence akin to that of commercial air travel, making trips to orbit, the Moon, and even Mars increasingly routine. This ambitious approach not only underscores SpaceX's commitment to reusability and efficiency but also lays the groundwork for a sustainable infrastructure capable of supporting humanity's multi-planetary aspirations. Rapid restacking represents a leap towards a future where space exploration becomes a regular, accessible endeavor, opening new horizons for science, exploration, and possibly even space tourism.
 
 <br>
