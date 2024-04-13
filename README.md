@@ -219,4 +219,3 @@ In the future, the vision for rapid restacking of multiple Starships and their S
 </details>
 
 ***
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
