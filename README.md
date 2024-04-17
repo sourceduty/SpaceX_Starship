@@ -229,5 +229,3 @@ In the future, the vision for rapid restacking of multiple Starships and their S
 </details>
 
 ***
-
-![Artemis Logo](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/25f89410-1bad-463d-af3f-ec54262aec12)
