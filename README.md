@@ -146,6 +146,16 @@ In summary, cargo-dedicated SpaceX Starships represent a foundational element of
 <br>
 </details>
 
+<details><summary>World Record</summary>
+<br>
+
+![Guinness](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/dc2bebef-5350-4845-873b-8772ab4b6aa5)
+
+SpaceX's Starship holds the record for the largest rocket ever built, in terms of both physical size and payload capacity. Standing at about 120 meters (nearly 400 feet) tall, Starship, when combined with its Super Heavy booster, is the tallest and has the highest payload capacity of any rocket developed. It can carry up to 150 metric tonnes to orbit in its fully reusable configuration and up to 250 metric tonnes in an expendable configuration​​. This makes it not only the largest but also the most powerful launch vehicle ever constructed, surpassing previous record holders like the Saturn V, which was used during the Apollo missions.
+
+<br>
+</details>
+
 <details><summary>DALL-E 3</summary>
 <br>
 
