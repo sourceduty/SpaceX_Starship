@@ -40,6 +40,14 @@ Choosing between a nose cabin and a body cabin for the Starship hinges on the mi
 <br>
 </details>
 
+<details><summary>Human Payload</summary>
+<br>
+
+SpaceX's Starship spacecraft is designed with the capacity to carry a large number of passengers. The current design specifications aim for Starship to accommodate up to 100 passengers per trip to destinations like Mars. However, this number could vary depending on the mission requirements and configurations. It's worth noting that while the goal is to carry large numbers of passengers, the actual capacity may be adjusted based on factors like payload needs, safety considerations, and mission objectives.
+
+<br>
+</details>
+
 <details><summary>Design Materials</summary>
 <br>
 
