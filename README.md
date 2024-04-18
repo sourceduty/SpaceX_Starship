@@ -264,12 +264,28 @@ In the future, the vision for rapid restacking of multiple Starships and their S
 <br>
 </details>
 
+<details><summary>Test Flights</summary>
+<br>
+
+The recent test flights of SpaceX's Starship have provided mixed results in terms of safety planning. The third integrated test flight (IFT-3) of the Starship rocket achieved several milestones but ultimately ended in failure when the rocket disintegrated during re-entry into the Earth's atmosphere. This disintegration occurred after a successful launch and an extended flight duration compared to previous tests, demonstrating substantial progress in some technical areas.
+
+Key findings from the test revealed that all 33 engines of the Super Heavy booster functioned well during ascent, and the booster separated from the spacecraft as planned. However, the mission faced critical issues upon re-entry. The spacecraft lost communication with mission control and was lost during the stress of re-entry, attributed to the intense heat and friction encountered at hypersonic speeds.
+
+Despite the failure at the end of the flight, SpaceX and regulatory bodies like the FAA have noted the successes in the test flight's execution. This includes the proper functioning of the engines and the booster's performance, which are crucial for future long-duration missions and safety planning. Each test flight aims to iterate on previous results to enhance safety and reliability for eventual manned missions.
+
+The Federal Aviation Administration (FAA) has been closely monitoring these tests and reviewed all corrections made by SpaceX before approving the flights. The agency has expressed its intent to investigate the circumstances surrounding the mishap to ensure continuous improvement in safety measures.
+
+These results are important as SpaceX continues to develop the Starship for future ambitious missions, including crewed lunar landings and interplanetary travel. The lessons learned from each test are critical for refining the design and operation of the spacecraft to ensure the safety of future astronauts and payloads.
+
+<br>
+</details>
+
 <details><summary>Mars</summary>
 <br>
 
 [Mars](https://github.com/sourceduty/Mars)
 
+<details><summary>Cargo Doors</summary>
 <br>
-</details>
 
 ***
