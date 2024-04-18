@@ -285,8 +285,8 @@ These results are important as SpaceX continues to develop the Starship for futu
 
 [Mars](https://github.com/sourceduty/Mars)
 
-<details><summary>Cargo Doors</summary>
 <br>
+</details>
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
