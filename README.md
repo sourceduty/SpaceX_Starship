@@ -196,6 +196,42 @@ Protected information in the aerospace industry should be declassified according
 <br>
 </details>
 
+<details><summary>Titanic Problem</summary>
+<br>
+
+### Titanic Problem
+
+Scenario:
+
+SpaceX's latest Starship embarks on its maiden voyage, destined for a distant exoplanet known for its breathtaking beauty and potential for colonization. However, shortly after departing Earth's orbit, the crew of 100 encounters a series of catastrophic malfunctions, leaving the Starship adrift in the vastness of space.
+
+Problem:
+1. Critical System Failures: The Starship's propulsion system malfunctions, leaving it stranded in space with limited maneuverability and no means of returning to Earth or reaching its intended destination.
+
+2. Life Support Compromise: The life support systems begin to degrade, posing a serious threat to the crew's survival. Oxygen levels are dwindling, and temperature regulation becomes increasingly unstable.
+
+3. Limited Resources: The Starship was equipped for a long-duration voyage, but unforeseen circumstances have drastically reduced available resources such as food, water, and energy reserves. The crew must ration supplies carefully to prolong their survival.
+
+4. Communication Breakdown: Attempts to establish communication with Earth or nearby space stations fail due to damage sustained during the malfunctions. The crew is isolated, with no means of seeking external assistance.
+
+5. Time Pressure: With each passing moment, the crew's situation becomes more dire. They must quickly devise a plan to repair the Starship's critical systems, stabilize life support, and ensure their survival until help arrives or they find a solution.
+
+Solution:
+1. Prioritize Repairs: The crew must assess the extent of damage to the Starship's propulsion and life support systems and focus their efforts on restoring functionality to essential systems. They may need to improvise repairs using available resources on board.
+
+2. Conservation Measures: Implement strict rationing protocols for food, water, and energy to extend the crew's survival timeline. Exploration of alternative sources of sustenance, such as hydroponic gardens or recycling systems, could also be crucial.
+
+3. Innovation and Collaboration: Encourage brainstorming and collaboration among crew members to generate innovative solutions to their predicament. Perhaps there are unconventional methods or untested technologies on board that could be repurposed to address their challenges.
+
+4. Mission Abandonment Consideration: While it may be a last resort, the crew must also evaluate the possibility of abandoning the mission and utilizing escape pods or other emergency measures to return to Earth or seek refuge on nearby celestial bodies.
+
+5. Maintain Morale: In the face of adversity, maintaining the crew's morale is essential for their mental well-being and cooperation. Regular communication, team-building activities, and reminders of their shared mission and resilience can help boost morale and foster a sense of camaraderie.
+
+As the crew of the Starship grapples with their Titanic dilemma, their ingenuity, resourcefulness, and unity will ultimately determine their fate in the unforgiving depths of space.
+
+<br>
+</details>
+
 <details><summary>Mechazilla</summary>
 <br>
 
