@@ -288,5 +288,37 @@ These results are important as SpaceX continues to develop the Starship for futu
 <br>
 </details>
 
+<details><summary>Starship Engine Redundancy</summary>
+<br>
+
+![Engines](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/4cb690f4-a3fa-4e0f-aeeb-0fa1fb7d7fe8)
+
+When SpaceX's Starship launches, it uses a two-stage system consisting of the Starship spacecraft and the Super Heavy booster. All of the engines on both stages are typically intended for use during the launch sequence, rather than having specific engines designated as "backup" engines.
+
+Super Heavy Booster: This is the first stage of the rocket, responsible for providing the initial thrust to leave Earth's atmosphere. As of the latest updates, the Super Heavy can have up to 33 Raptor engines. These engines are all used during liftoff to maximize thrust and efficiency. There aren’t engines specifically designated as backups; all contribute to the launch process.
+
+Starship (Second Stage): The upper stage of the rocket, which is the actual Starship, has 6 Raptor engines. These are used for propulsion beyond the Earth's atmosphere and for maneuvering in space. Similar to the Super Heavy booster, all these engines are main engines; none are just for backup.
+
+Thus, in total, a fully equipped Starship launch system can have up to 39 Raptor engines active and functioning, with none explicitly categorized as backup engines. They all play crucial roles in the different phases of the mission.
+
+The number of engines that can fail without compromising a mission depends significantly on the specific phase of the flight and the mission requirements. SpaceX's Starship and its Super Heavy booster are designed with some degree of engine redundancy, meaning that the system can tolerate some engine failures and still complete its mission.
+
+For the Super Heavy booster, which may have up to 33 Raptor engines, there is a relatively high level of redundancy. This is crucial during the initial lift-off and ascent phases, where losing an engine or two can generally be compensated for by the remaining operational engines. The exact number of engines that can fail without mission failure isn't publicly specified by SpaceX, but the design aims to ensure that the vehicle can tolerate multiple engine outages and still perform its necessary flight profile.
+
+For the Starship upper stage, which has 6 Raptor engines, the redundancy is somewhat lower due to the smaller number of engines. However, even here, the system is designed to handle at least one engine failure during different phases of its mission, such as orbital insertion or landing. The precise impact of an engine failure on Starship would depend on when and during which flight maneuvers the failure occurs.
+
+Elon Musk has mentioned in discussions that the Starship system is designed to handle multiple engine failures but has not given specific numbers. The exact tolerance levels likely vary based on the load, the specific mission trajectory, and other dynamic factors during a flight.
+
+<br>
+</details>
+
+<details><summary>Space</summary>
+<br>
+
+[Space](https://github.com/sourceduty/Space)
+
+<br>
+</details>
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
