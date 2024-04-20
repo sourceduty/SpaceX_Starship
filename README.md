@@ -288,7 +288,7 @@ These results are important as SpaceX continues to develop the Starship for futu
 <br>
 </details>
 
-<details><summary>Starship Engine Redundancy</summary>
+<details><summary>Engine Redundancy</summary>
 <br>
 
 ![Engines](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/4cb690f4-a3fa-4e0f-aeeb-0fa1fb7d7fe8)
