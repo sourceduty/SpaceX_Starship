@@ -320,5 +320,13 @@ Elon Musk has mentioned in discussions that the Starship system is designed to h
 <br>
 </details>
 
+<details><summary>Aerospace Simulator</summary>
+<br>
+
+[Areospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
+
+<br>
+</details>
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
