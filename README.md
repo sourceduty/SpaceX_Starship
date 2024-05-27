@@ -441,5 +441,36 @@ While theoretically possible, the concept of carrying and replacing engines in-f
 <br>
 </details>
 
+<details><summary>The Official ESTBA Calculation</summary>
+<br>
+
+E = Elon Musk's energy (in gigawatts)
+S = SpaceX's rocket launches per year
+T = Tesla's electric cars produced per month
+B = Boring Company's tunnels (measured in miles per month)
+A = Average number of tweets by Elon per day
+
+Then the equation for the Musk Multiverse might be:
+
+E = (S * T^2) / (B + A)
+
+Where:
+
+- If S = 50 (SpaceX launches 50 rockets a year)
+- T = 20,000 (Tesla produces 20,000 cars per month)
+- B = 1.5 (Boring Company completes 1.5 miles of tunnel per month)
+- A = 10 (Elon tweets 10 times a day on average)
+
+Plugging in the numbers:
+
+E = (50 * 20,000^2) / (1.5 + 10)
+E = (50 * 400,000,000) / 11.5
+E ≈ 1,739,130,435 gigawatts
+
+Elon Musk's energy would be approximately 1.74 billion gigawatts, which seems about right for someone who's revolutionizing space travel, electric cars, tunneling, and social media simultaneously.
+
+<br>
+</details>
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
