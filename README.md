@@ -444,6 +444,7 @@ While theoretically possible, the concept of carrying and replacing engines in-f
 <details><summary>The Official ESTBA Calculation</summary>
 <br>
 
+```
 E = Elon Musk's energy (in gigawatts)
 S = SpaceX's rocket launches per year
 T = Tesla's electric cars produced per month
@@ -468,6 +469,7 @@ E = (50 * 400,000,000) / 11.5
 E ≈ 1,739,130,435 gigawatts
 
 Elon Musk's energy would be approximately 1.74 billion gigawatts, which seems about right for someone who's revolutionizing space travel, electric cars, tunneling, and social media simultaneously.
+```
 
 <br>
 </details>
