@@ -177,6 +177,8 @@ DALL-E 3 cannot directly depict SpaceX's Starship due to policy restrictions.
 <details><summary>Protected Property</summary>
 <br>
 
+![No Patents](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/fe43ed67-b181-4303-827c-cf9e239f42af)
+
 ### Protected Property
 
 The design of SpaceX's Starship spacecraft is likely protected by various forms of intellectual property law, including patents and possibly trade secrets.
