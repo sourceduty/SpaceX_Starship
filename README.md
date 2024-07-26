@@ -1,5 +1,3 @@
-### Live Twice
-
 ![Starship](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/d79a041c-5774-486f-8fff-f02c0dba4fc4)
 
 > SpaceX Starship design information and concept notes.
