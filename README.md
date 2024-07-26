@@ -2,6 +2,10 @@
 
 ![Starship](https://github.com/sourceduty/SpaceX_Starship/assets/123030236/d79a041c-5774-486f-8fff-f02c0dba4fc4)
 
+> SpaceX Starship design information and concept notes.
+
+#
+
 The SpaceX Starship represents a monumental leap in space exploration technology, epitomizing the culmination of years of engineering ingenuity and innovation. Designed as a fully reusable spacecraft, Starship is poised to significantly reduce the cost of space travel, making missions to the Moon, Mars, and beyond more feasible. Its stainless steel construction not only offers durability and heat resistance during re-entry but also imparts a futuristic aesthetic, setting it apart from traditional spacecraft designs.
 
 Starship's ambitious design includes a two-stage configuration, with the first stage, known as Super Heavy, providing the initial thrust required to escape Earth's gravitational pull. This behemoth of a rocket booster is equipped with an array of Raptor engines, designed to provide unparalleled thrust. The second stage, which also bears the name Starship, serves as both the spacecraft and the upper stage, capable of carrying crew and cargo to a variety of destinations within the solar system. This innovative approach to spacecraft design showcases SpaceX's commitment to reusability and efficiency.
@@ -475,6 +479,10 @@ Elon Musk's energy would be approximately 1.74 billion gigawatts, which seems ab
 
 <br>
 </details>
+
+#
+
+> Alex: "*SpaceX is a small company in the underexplored universe.*"
 
 #
 ### Related Links
