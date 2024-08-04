@@ -498,6 +498,8 @@ Elon Musk's energy would be approximately 1.74 billion gigawatts, which seems ab
 [WW3](https://github.com/sourceduty/WW3)
 <br>
 [Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
+<br>
+[Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
