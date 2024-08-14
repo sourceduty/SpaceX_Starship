@@ -482,6 +482,8 @@ Elon Musk's energy would be approximately 1.74 billion gigawatts, which seems ab
 
 > Alex: "*SpaceX is a small company in the underexplored universe.*"
 
+> "*Elon Musk is more famous in today's context than Elvis Presley.*"
+
 #
 ### Related Links
 
