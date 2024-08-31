@@ -525,6 +525,8 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 [Comfort-Navigation](https://github.com/sourceduty/Comfort-Navigation_Math)
 <br>
 [Space Terminal](https://github.com/sourceduty/Space_Terminal)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
