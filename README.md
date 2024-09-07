@@ -543,6 +543,8 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 [Space Terminal](https://github.com/sourceduty/Space_Terminal)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Space Simulator](https://chatgpt.com/g/g-HiBjZs8sv-space-simulator)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
