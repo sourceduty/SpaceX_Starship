@@ -21,6 +21,8 @@ In this context, Musk's superrare celebrity status is both a reflection of and a
 
 ***
 
+### Starship Notes
+
 <details><summary>Cargo Doors</summary>
 <br>
 
@@ -500,6 +502,10 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 
 <br>
 </details>
+
+#
+
+![Used Starship](https://github.com/user-attachments/assets/e8fd729b-e8fd-4e1f-94b9-2063e999e135)
 
 #
 
