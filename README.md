@@ -513,6 +513,10 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 
 #
 
+![Space Highway](https://github.com/user-attachments/assets/fbb10ded-eeae-4bea-949c-f95db2436025)
+
+#
+
 > Alex: "*SpaceX is a small company in the underexplored universe.*"
 
 > "*Elon Musk is more famous in today's context than Elvis Presley.*"
