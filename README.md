@@ -505,6 +505,10 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 
 #
 
+![Exploration Meme](https://github.com/user-attachments/assets/3148e900-2d2f-4367-9ea0-51635bc347e3)
+
+#
+
 ![Restacking](https://github.com/user-attachments/assets/3638f491-8f82-4197-9b17-16699d2d46ef)
 
 #
