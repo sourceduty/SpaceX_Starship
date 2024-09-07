@@ -513,7 +513,7 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 
 #
 
-![Space Highway](https://github.com/user-attachments/assets/fbb10ded-eeae-4bea-949c-f95db2436025)
+![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
 
 #
 
