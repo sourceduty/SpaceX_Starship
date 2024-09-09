@@ -13,7 +13,7 @@ Moreover, the development of Starship is a testament to SpaceX's vision of makin
 #
 ### Elon Musk
 
-![Elon Musk Business](https://github.com/user-attachments/assets/b88fa5cd-0d6b-4b14-88a1-2b4c396c65bb)
+![One Billion](https://github.com/user-attachments/assets/98b90d70-439d-4997-8d51-b0ef2a1baf05)
 
 The era we live in, defined by rapid technological advancements and a globalized society, has seen the rise of superrare celebrities like Elon Musk, who embody the intersection of innovation, entrepreneurship, and public fascination. Musk's influence extends beyond the typical realms of business leaders, touching on space exploration, electric vehicles, and artificial intelligence. His ventures with companies like SpaceX, Tesla, and Neuralink not only push the boundaries of what is technologically possible but also capture the public's imagination. Musk's ability to communicate directly with millions through platforms like Twitter amplifies his reach, allowing him to influence public discourse, inspire new generations of entrepreneurs, and even sway financial markets with a single tweet. His celebrity status is not merely about wealth or recognition; it represents a new form of cultural leadership in which visionaries can shape the future of humanity in real-time.
 
@@ -505,7 +505,7 @@ The potential impact of Starlink is significant, as it could bridge the digital 
 
 #
 
-![Exploration Meme](https://github.com/user-attachments/assets/3148e900-2d2f-4367-9ea0-51635bc347e3)
+![Elon Musk Business](https://github.com/user-attachments/assets/b88fa5cd-0d6b-4b14-88a1-2b4c396c65bb)
 
 #
 
