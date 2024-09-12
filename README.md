@@ -40,7 +40,7 @@ In addition to interplanetary travel, Starship is set to serve various other mis
 #
 ### Recording a Starship Landing on Mars
 
-![Mars](https://github.com/user-attachments/assets/a4d219a3-9d3f-47e6-9bb6-9f427ac6347a)
+![Mars](https://github.com/user-attachments/assets/64d17534-3b16-4e0f-8df0-01b0958c32a6)
 
 Recording a Starship landing on Mars with a satellite camera would offer a rare and dynamic view of this historic event. A satellite positioned in orbit around Mars would have the ability to capture the spacecraft’s descent through the planet's thin atmosphere. As Starship enters Mars’ atmosphere, the camera would record the fiery reentry phase, showcasing the craft’s heat shields enduring intense temperatures. With a clear line of sight, the satellite could track Starship's trajectory and speed as it moves toward the Martian surface, capturing critical moments of deceleration, such as the deployment of landing legs and the final approach.
 
