@@ -38,7 +38,7 @@ SpaceX's Starship is designed with ambitious goals, aiming to revolutionize spac
 In addition to interplanetary travel, Starship is set to serve various other missions. It will be used for commercial satellite deployment, space tourism, and even long-distance Earth travel, potentially enabling global suborbital flights. NASA has also selected a version of Starship to support its Artemis program, which aims to return humans to the Moon and establish a sustainable presence there. SpaceX envisions that Starship will replace its existing Falcon rockets, becoming the backbone for a wide array of space missions, from near-Earth to deep-space exploration.
 
 #
-### Recording Startship on Mars
+### Recording Starship on Mars
 
 ![Mars](https://github.com/user-attachments/assets/a4d219a3-9d3f-47e6-9bb6-9f427ac6347a)
 
