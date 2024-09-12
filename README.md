@@ -552,10 +552,6 @@ Finally, the overall lightweight design of the Polaris Dawn suits contributes to
 
 #
 
-![Restacking](https://github.com/user-attachments/assets/3638f491-8f82-4197-9b17-16699d2d46ef)
-
-#
-
 ![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
 
 #
