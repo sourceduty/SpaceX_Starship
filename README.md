@@ -37,6 +37,17 @@ SpaceX's Starship is designed with ambitious goals, aiming to revolutionize spac
 
 In addition to interplanetary travel, Starship is set to serve various other missions. It will be used for commercial satellite deployment, space tourism, and even long-distance Earth travel, potentially enabling global suborbital flights. NASA has also selected a version of Starship to support its Artemis program, which aims to return humans to the Moon and establish a sustainable presence there. SpaceX envisions that Starship will replace its existing Falcon rockets, becoming the backbone for a wide array of space missions, from near-Earth to deep-space exploration.
 
+#
+### Recording Startship on Mars
+
+![Mars](https://github.com/user-attachments/assets/a4d219a3-9d3f-47e6-9bb6-9f427ac6347a)
+
+Recording a Starship landing on Mars with a satellite camera would offer a rare and dynamic view of this historic event. A satellite positioned in orbit around Mars would have the ability to capture the spacecraft’s descent through the planet's thin atmosphere. As Starship enters Mars’ atmosphere, the camera would record the fiery reentry phase, showcasing the craft’s heat shields enduring intense temperatures. With a clear line of sight, the satellite could track Starship's trajectory and speed as it moves toward the Martian surface, capturing critical moments of deceleration, such as the deployment of landing legs and the final approach.
+
+Once the spacecraft nears the surface, the satellite camera would focus on the precision of the landing maneuver. The descent and landing process involves intricate steps, such as utilizing thrusters to control its speed and orientation. The satellite’s perspective would provide a broad, sweeping view of the surrounding Martian terrain, allowing viewers to observe the landing site in context with the surrounding landscape. These visuals would also aid scientists and engineers in understanding how the spacecraft interacts with the Martian environment and could reveal potential challenges such as dust plumes kicked up by the landing.
+
+In addition to the landing, the satellite camera could continue to monitor Starship’s activities on the surface. By capturing high-resolution imagery and video, the satellite would offer valuable data on the landing site's conditions and changes over time. This information would be crucial for future missions, providing insights into the stability of the landing zone, potential hazards, and environmental factors. Ultimately, visually recording the landing from orbit would not only create a stunning and scientifically useful record but also bring the excitement of interplanetary exploration to audiences on Earth.
+
 ***
 
 ### Starship Notes
