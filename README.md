@@ -324,14 +324,6 @@ These results are important as SpaceX continues to develop the Starship for futu
 <br>
 </details>
 
-<details><summary>Mars</summary>
-<br>
-
-[Mars](https://github.com/sourceduty/Mars)
-
-<br>
-</details>
-
 <details><summary>Engine Redundancy</summary>
 <br>
 
@@ -352,22 +344,6 @@ For the Super Heavy booster, which may have up to 33 Raptor engines, there is a 
 For the Starship upper stage, which has 6 Raptor engines, the redundancy is somewhat lower due to the smaller number of engines. However, even here, the system is designed to handle at least one engine failure during different phases of its mission, such as orbital insertion or landing. The precise impact of an engine failure on Starship would depend on when and during which flight maneuvers the failure occurs.
 
 Elon Musk has mentioned in discussions that the Starship system is designed to handle multiple engine failures but has not given specific numbers. The exact tolerance levels likely vary based on the load, the specific mission trajectory, and other dynamic factors during a flight.
-
-<br>
-</details>
-
-<details><summary>Space</summary>
-<br>
-
-[Space](https://github.com/sourceduty/Space)
-
-<br>
-</details>
-
-<details><summary>Aerospace Simulator</summary>
-<br>
-
-[Areospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
 
 <br>
 </details>
