@@ -95,6 +95,8 @@ SpaceX's Starship spacecraft is designed with the capacity to carry a large numb
 
 ### Design Materials
 
+![Starship](https://github.com/user-attachments/assets/d31ad989-0083-4514-813c-b12fa16caf00)
+
 The SpaceX Starship represents a paradigm shift in spacecraft design, in part due to its innovative choice of materials. Unlike traditional spacecraft that often rely on aluminum and carbon fiber composites, Starship has pioneered the use of stainless steel, specifically the 300 series, which offers several distinct advantages. Stainless steel provides exceptional strength and durability, crucial for withstanding the rigors of space travel, including the intense heat during re-entry into Earth's atmosphere. Its ability to endure cryogenic temperatures also makes it ideal for containing the liquid methane and oxygen propellants used by Starship's Raptor engines.
 
 Beyond the primary structure, SpaceX has integrated advanced heat shield technologies into Starship. One of the most notable is the development and use of heat-resistant tiles to protect the spacecraft from the extreme temperatures experienced during re-entry. These tiles are designed to absorb and dissipate heat, ensuring the structural integrity of the spacecraft is maintained. The choice of materials for these tiles is critical, focusing on ceramics and other composites known for their thermal properties.
