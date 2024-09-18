@@ -543,32 +543,32 @@ When Falcon or Starship boosters reach the end of their operational life, they w
 
 ![Upcycles](https://github.com/user-attachments/assets/8fe48f18-57a7-4aa5-b3d2-a450c77b6f16)
 
-The physical Improvement Value (IV) of SpaceX's Falcon rocket boosters can be measured across the four key dimensions: usability, efficiency, satisfaction, and impact. By focusing on these dimensions, we can assess the tangible benefits of the reusable rocket technology that Falcon 9, Falcon Heavy, and Starship bring to the aerospace industry.
+The physical Improvement Value (IV) of upcycling rocket boosters can be evaluated across the dimensions of usability, efficiency, satisfaction, and impact. Upcycling involves repurposing components of decommissioned boosters into new products or systems, which has the potential to significantly improve the sustainability of aerospace operations while reducing waste.
 
 Usability
 
-SpaceX's primary improvement in usability comes from the reusability of its rocket boosters. Unlike traditional expendable rockets, the Falcon 9 and Falcon Heavy boosters can be reused after landing. This design innovation allows SpaceX to significantly reduce the need for new manufacturing. The boosters are engineered to withstand the stress of multiple launches, landings, and re-entries, which improves overall ease of use. The ease of inspection and refurbishment also enhances usability, as boosters are prepared for future flights in a matter of weeks. For example, some Falcon 9 boosters have flown up to 16 missions, a stark contrast to conventional rockets that are discarded after a single use. Metrics like the number of successful reuses and the time required for refurbishment directly reflect the usability improvement.
+In terms of usability, upcycling offers a new way to extend the life of booster components by repurposing them for different applications. Once boosters reach the end of their operational life for spaceflight, many parts could still be functional for other purposes. For example, components like engines, structural materials, or electronics could be adapted for use in other aerospace systems or even in non-space industries. This would increase the usability of these parts beyond their original purpose. Measuring usability in upcycling could include the number of components successfully repurposed and how easily they can be disassembled and adapted for new uses.
 
 Efficiency
 
-The reusability of SpaceX's rocket boosters offers significant cost and resource efficiencies. Each Falcon 9 launch costs approximately $67 million USD, while the reusability of the boosters allows SpaceX to save an estimated $20-30 million USD per flight. By reusing hardware, SpaceX minimizes the need for new materials, reducing both the production and energy costs associated with rocket manufacturing. The efficiency also extends to fuel savings during re-entry and controlled landing operations. Additionally, SpaceX's reusability model helps conserve critical resources, reducing the number of new components needed. Metrics such as the cost per kilogram of payload launched to space and the fuel savings from landing and refurbishment provide insight into this dimension of IV.
+Upcycling brings notable efficiency gains by reducing the need for new materials and components. Instead of manufacturing entirely new parts for various applications, SpaceX could save resources by reusing existing materials from retired boosters. This would not only cut down on production costs but also reduce the environmental footprint associated with extracting and processing raw materials. By reusing components from boosters, material savings and cost reductions could be achieved, contributing to overall operational efficiency. Metrics such as material savings and the cost avoided by repurposing components would help quantify this efficiency improvement.
 
 Satisfaction
 
-Customers benefit from SpaceX’s reusable rockets due to the lower cost of access to space. Lower launch costs attract a wide range of customers, from governments to private companies, enabling missions that might not have been financially viable with traditional rockets. The ability to offer more launches at a lower cost increases customer satisfaction and loyalty, which is reflected in repeat business and industry demand for SpaceX services. With launch prices significantly below competitors, and the increasing reliability of the technology, SpaceX enjoys strong customer loyalty. Measures of satisfaction, such as the Net Promoter Score (NPS) and the number of repeat customers, would provide valuable insight into how SpaceX’s reusable technology is perceived.
+The upcycling of rocket booster components could enhance customer satisfaction by reinforcing SpaceX's commitment to sustainability. In an era where environmental impact is increasingly important to both customers and stakeholders, SpaceX’s efforts to repurpose decommissioned boosters could improve public perception of the company. Customers may view upcycling as a demonstration of SpaceX’s dedication to reducing waste and promoting eco-friendly practices. Measuring customer satisfaction could involve tracking Net Promoter Scores (NPS) and customer feedback related to sustainability initiatives, as well as gauging overall brand perception.
 
 Impact
 
-SpaceX’s innovations have a profound impact on the space industry, positioning the company as a market leader. The reduction in launch costs has expanded the market for space travel, allowing more entities to pursue space missions. SpaceX’s ability to reuse boosters has drastically reduced the barrier to space access, stimulating market growth and enabling new industries like satellite constellations for global internet coverage. The broader environmental impact is also significant, as reusability helps to minimize waste and resource consumption compared to single-use rockets. By reducing the overall cost of launching payloads, estimated at $2,720 USD per kilogram, SpaceX has gained a competitive advantage, driving long-term growth in revenue and market share. Metrics such as market share, revenue growth, and the number of successful recovery missions reflect the broader impact.
+The impact of upcycling rocket booster components extends beyond cost savings to include a positive environmental and industry-wide influence. By reducing waste and encouraging the reuse of materials, SpaceX could contribute to the broader goal of making space exploration more sustainable. This not only helps minimize the environmental impact of the aerospace industry but could also set a precedent for other companies to follow. Upcycling could be seen as part of a long-term strategy to create a sustainable ecosystem in space exploration. Key metrics to assess impact include the reduction in waste, the contribution to sustainability goals, and the overall influence on industry standards.
 
 <br>
 
 | Dimension    | Specific Improvements                         | IV Measurement                                        |
 |--------------|------------------------------------------------|-------------------------------------------------------|
-| Usability    | Reusability of first-stage boosters            | Number of reuses per booster, time to refurbish        |
-| Efficiency   | Reduced cost per launch, energy savings        | Launch cost per kg, fuel savings during re-entry       |
-| Satisfaction | Improved customer experience with lower costs  | Customer retention, NPS, market preference for SpaceX  |
-| Impact       | Market leadership, sustainable space travel    | Market share growth, successful recovery/launch cycles |
+| Usability    | Potential to repurpose parts for other uses    | Number of components repurposed, ease of disassembly   |
+| Efficiency   | Reduced need for new materials through upcycling| Material savings, cost reduction in new components     |
+| Satisfaction | Positive perception of sustainability efforts  | Customer perception of environmental impact, NPS       |
+| Impact       | Reduced environmental impact and resource waste| Reduction in waste, contribution to sustainability goals|
 
 <br>
 </details>
