@@ -541,6 +541,8 @@ When Falcon or Starship boosters reach the end of their operational life, they w
 <details><summary>Value of Upcycling Rocket Boosters</summary>
 <br>
 
+![Upcycles](https://github.com/user-attachments/assets/8fe48f18-57a7-4aa5-b3d2-a450c77b6f16)
+
 The physical Improvement Value (IV) of SpaceX's Falcon rocket boosters can be measured across the four key dimensions: usability, efficiency, satisfaction, and impact. By focusing on these dimensions, we can assess the tangible benefits of the reusable rocket technology that Falcon 9, Falcon Heavy, and Starship bring to the aerospace industry.
 
 Usability
