@@ -579,7 +579,7 @@ The impact of upcycling rocket booster components extends beyond cost savings to
 
 #
 
-![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
+![Rockets](https://github.com/user-attachments/assets/d687f92c-83b6-474a-b073-be9d680420e9)
 
 #
 
@@ -618,7 +618,11 @@ The impact of upcycling rocket booster components extends beyond cost savings to
 
 #
 
-![Rockets](https://github.com/user-attachments/assets/d687f92c-83b6-474a-b073-be9d680420e9)
+![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
+
+#
+
+![Silo Rocket](https://github.com/user-attachments/assets/ce6e5619-91bd-4b3a-b120-01aeba528b5d)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
