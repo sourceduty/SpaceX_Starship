@@ -623,6 +623,8 @@ In addition to boosting performance, the pivoting design offers significant dura
 
 > "*Elon Musk is more famous in today's context than Elvis Presley.*"
 
+> "*I understand how rockets work but I don't care about rocket science or space very much.*"
+
 #
 ### Related Links
 
