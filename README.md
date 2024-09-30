@@ -660,6 +660,8 @@ In addition to boosting performance, the pivoting design offers significant dura
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [Space Simulator](https://chatgpt.com/g/g-HiBjZs8sv-space-simulator)
+<br>
+[Cosmology](https://github.com/sourceduty/Cosmology)
 
 #
 
