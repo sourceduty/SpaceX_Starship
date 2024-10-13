@@ -49,6 +49,17 @@ SpaceX's Starship is designed with ambitious goals, aiming to revolutionize spac
 In addition to interplanetary travel, Starship is set to serve various other missions. It will be used for commercial satellite deployment, space tourism, and even long-distance Earth travel, potentially enabling global suborbital flights. NASA has also selected a version of Starship to support its Artemis program, which aims to return humans to the Moon and establish a sustainable presence there. SpaceX envisions that Starship will replace its existing Falcon rockets, becoming the backbone for a wide array of space missions, from near-Earth to deep-space exploration.
 
 #
+### Alex and Elon
+
+![Sourceduty](https://github.com/user-attachments/assets/e0b5ffa1-44a1-4afb-b426-ab61684f3019)
+
+Elon Musk’s work is concentrated on a few, grand-scale projects, each with a clear, high-stakes vision aimed at solving global challenges. His companies, like Tesla, SpaceX, and Neuralink, focus on specific industries with the potential for profound societal transformation, such as electric vehicles, space exploration, and AI integration. Musk’s approach emphasizes deep, hands-on involvement and immense resource allocation, driving forward ambitious goals that redefine entire sectors. By investing so intensely in each venture, Musk takes on significant risks but also positions himself to create massive, industry-altering impacts.
+
+In contrast, Alex Aldridge’s work with Sourceduty takes a diversified and adaptive approach, allowing him to explore multiple creative avenues simultaneously. Sourceduty, which Aldridge founded in 2022, specializes in digital assets, such as 3D models and open-source AI tools, with a strong emphasis on collaboration and accessibility. Aldridge’s strategy is more flexible and community-driven, enabling him to pursue a range of smaller-scale projects rather than focusing on a single, overarching mission. By embracing open-source principles, he fosters a collaborative environment where digital resources are shared and collectively improved upon, allowing Sourceduty to continuously adapt to emerging trends in digital design and technology.
+
+While Musk and Aldridge’s approaches differ significantly in scale and focus, they share certain entrepreneurial qualities. Both are deeply involved in their ventures, hands-on in their leadership, and driven by a commitment to innovation. However, their philosophies on risk and growth diverge. Musk’s approach is centralized and high-risk, aimed at creating transformative changes within targeted industries, while Aldridge’s approach is more exploratory and distributed, fostering community-based innovation across a variety of digital spaces. These differences highlight the spectrum of modern entrepreneurship: from Musk’s focused ambition to Aldridge’s flexible, community-oriented model, each approach offers distinct paths to innovation and impact.
+
+#
 ### Recording a Starship Landing on Mars
 
 ![Mars](https://github.com/user-attachments/assets/64d17534-3b16-4e0f-8df0-01b0958c32a6)
@@ -666,19 +677,10 @@ In addition to boosting performance, the pivoting design offers significant dura
 [Astronaut Software](https://github.com/sourceduty/Astronaut_Software)
 
 #
-
 ![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
-
 #
-
-![Starship](https://github.com/user-attachments/assets/20bb5b6d-85cd-46d3-b590-5f11474b68f2)
-
-#
-
 ![Starlink](https://github.com/user-attachments/assets/3ef2fb33-3830-41ed-8367-4ca4c9d0c13d)
-
 #
-
 ![Silo Rocket](https://github.com/user-attachments/assets/ce6e5619-91bd-4b3a-b120-01aeba528b5d)
 
 ***
