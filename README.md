@@ -19,8 +19,6 @@ The era we live in, defined by rapid technological advancements and a globalized
 
 In this context, Musk's superrare celebrity status is both a reflection of and a catalyst for the societal shifts occurring in our time. People look to figures like him for more than entertainment or escapism; they look for guidance, inspiration, and leadership in navigating the complexities of the modern world. The fascination with Musk is partly due to his bold vision of the future—one where humans are multi-planetary species, where sustainable energy is the norm, and where the lines between man and machine blur. His persona, blending eccentricity with an unrelenting drive, resonates with a public yearning for breakthrough innovations and dramatic solutions to global challenges. This makes Elon Musk not just a business icon but a symbol of the limitless possibilities of human ingenuity, representing the aspirations and anxieties of an age where technology is both a promise and a peril.
 
-> Alex: "*I can and I will soon concentrate on one large business project which I will hopefully repeat.*"
-
 #
 ### Automated X Account
 
@@ -60,6 +58,8 @@ Elon Musk’s work is concentrated on a few, grand-scale projects, each with a c
 In contrast, Alex Aldridge’s work with Sourceduty takes a diversified and adaptive approach, allowing him to explore multiple creative avenues simultaneously. Sourceduty, which Aldridge founded in 2022, specializes in digital assets, such as 3D models and open-source AI tools, with a strong emphasis on collaboration and accessibility. Aldridge’s strategy is more flexible and community-driven, enabling him to pursue a range of smaller-scale projects rather than focusing on a single, overarching mission. By embracing open-source principles, he fosters a collaborative environment where digital resources are shared and collectively improved upon, allowing Sourceduty to continuously adapt to emerging trends in digital design and technology.
 
 While Musk and Aldridge’s approaches differ significantly in scale and focus, they share certain entrepreneurial qualities. Both are deeply involved in their ventures, hands-on in their leadership, and driven by a commitment to innovation. However, their philosophies on risk and growth diverge. Musk’s approach is centralized and high-risk, aimed at creating transformative changes within targeted industries, while Aldridge’s approach is more exploratory and distributed, fostering community-based innovation across a variety of digital spaces. These differences highlight the spectrum of modern entrepreneurship: from Musk’s focused ambition to Aldridge’s flexible, community-oriented model, each approach offers distinct paths to innovation and impact.
+
+> Alex: "*I can and I will soon concentrate on one large business project which I will hopefully repeat.*"
 
 #
 ### Recording a Starship Landing on Mars
