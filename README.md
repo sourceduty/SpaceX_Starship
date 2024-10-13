@@ -19,6 +19,8 @@ The era we live in, defined by rapid technological advancements and a globalized
 
 In this context, Musk's superrare celebrity status is both a reflection of and a catalyst for the societal shifts occurring in our time. People look to figures like him for more than entertainment or escapism; they look for guidance, inspiration, and leadership in navigating the complexities of the modern world. The fascination with Musk is partly due to his bold vision of the future—one where humans are multi-planetary species, where sustainable energy is the norm, and where the lines between man and machine blur. His persona, blending eccentricity with an unrelenting drive, resonates with a public yearning for breakthrough innovations and dramatic solutions to global challenges. This makes Elon Musk not just a business icon but a symbol of the limitless possibilities of human ingenuity, representing the aspirations and anxieties of an age where technology is both a promise and a peril.
 
+> Alex: "*I can and I will soon concentrate on one large business project which I will hopefully repeat.*"
+
 #
 ### Automated X Account
 
