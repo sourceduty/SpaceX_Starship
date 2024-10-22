@@ -75,7 +75,7 @@ In addition to the landing, the satellite camera could continue to monitor Stars
 #
 ### Mechazilla 2.0
 
-![Mechazilla 2 0](https://github.com/user-attachments/assets/90119a39-ff39-4a92-8d87-049acc438c5b)
+![Mechazilla 2 0](https://github.com/user-attachments/assets/0065ba0e-f55c-4d58-ad03-d0bd63d34340)
 
 SpaceX has the potential to grow even bigger as it continues to innovate in space travel, satellite deployment, and space infrastructure. With its ambitious plans for Mars colonization, the expansion of its Starlink satellite network, and the rapid pace of reusable rocket development, SpaceX is positioned to dominate the private space industry. Its ongoing partnerships with NASA and other government agencies, along with private sector clients, further enhance its ability to scale. If the company successfully demonstrates routine, affordable space travel with the Starship program, it could attract even more investment and widen its influence globally.
 
