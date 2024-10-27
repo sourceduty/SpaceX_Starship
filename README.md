@@ -639,17 +639,11 @@ In addition to boosting performance, the pivoting design offers significant dura
 </details>
 
 #
-
 ![Elon Musk Business](https://github.com/user-attachments/assets/b88fa5cd-0d6b-4b14-88a1-2b4c396c65bb)
-
 #
-
 ![Rockets](https://github.com/user-attachments/assets/d687f92c-83b6-474a-b073-be9d680420e9)
-
 #
-
 ![Spacewalk](https://github.com/user-attachments/assets/afc136de-cbfb-4c9a-8dcb-9930ccd48a25)
-
 #
 
 > Alex: "*SpaceX is a small company in the underexplored universe.*"
@@ -690,7 +684,7 @@ In addition to boosting performance, the pivoting design offers significant dura
 #
 ![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
 #
-![Spearhead](https://github.com/user-attachments/assets/a2bb0166-9862-4bdd-bab3-0a96d5d2d873)
+![Spearhead](https://github.com/user-attachments/assets/abd8cb6e-9c29-4bea-8e87-ee294dab169d)
 #
 ![Silo Rocket](https://github.com/user-attachments/assets/ce6e5619-91bd-4b3a-b120-01aeba528b5d)
 
