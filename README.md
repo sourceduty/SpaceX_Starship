@@ -690,7 +690,7 @@ In addition to boosting performance, the pivoting design offers significant dura
 #
 ![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
 #
-![Starlink](https://github.com/user-attachments/assets/3ef2fb33-3830-41ed-8367-4ca4c9d0c13d)
+![Spearhead](https://github.com/user-attachments/assets/a2bb0166-9862-4bdd-bab3-0a96d5d2d873)
 #
 ![Silo Rocket](https://github.com/user-attachments/assets/ce6e5619-91bd-4b3a-b120-01aeba528b5d)
 
