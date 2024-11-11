@@ -699,6 +699,8 @@ In addition to boosting performance, the pivoting design offers significant dura
 [Astronaut Software](https://github.com/sourceduty/Astronaut_Software)
 
 #
+![Raptors](https://github.com/user-attachments/assets/7c041005-994f-4c44-b527-bec3b5a332f6)
+#
 ![Starship](https://github.com/user-attachments/assets/2a70cedb-8b54-4109-8d8b-c2c94b4f14e1)
 #
 ![Spearhead](https://github.com/user-attachments/assets/abd8cb6e-9c29-4bea-8e87-ee294dab169d)
