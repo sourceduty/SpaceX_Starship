@@ -49,22 +49,13 @@ SpaceX's Starship is designed with ambitious goals, aiming to revolutionize spac
 In addition to interplanetary travel, Starship is set to serve various other missions. It will be used for commercial satellite deployment, space tourism, and even long-distance Earth travel, potentially enabling global suborbital flights. NASA has also selected a version of Starship to support its Artemis program, which aims to return humans to the Moon and establish a sustainable presence there. SpaceX envisions that Starship will replace its existing Falcon rockets, becoming the backbone for a wide array of space missions, from near-Earth to deep-space exploration.
 
 #
-### Alex and Elon
+### Sourceduty and Space
 
 ![Sourceduty](https://github.com/user-attachments/assets/e0b5ffa1-44a1-4afb-b426-ab61684f3019)
 
-Elon Musk’s work is concentrated on a few, grand-scale projects, each with a clear, high-stakes vision aimed at solving global challenges. His companies, like Tesla, SpaceX, and Neuralink, focus on specific industries with the potential for profound societal transformation, such as electric vehicles, space exploration, and AI integration. Musk’s approach emphasizes deep, hands-on involvement and immense resource allocation, driving forward ambitious goals that redefine entire sectors. By investing so intensely in each venture, Musk takes on significant risks but also positions himself to create massive, industry-altering impacts.
+Sourceduty’s expertise in digital art and technology could indeed extend into the aerospace and outer space industries, particularly in areas such as 3D modeling for spacecraft components, virtual simulations for mission planning, and interactive educational tools for public engagement in space exploration. By leveraging its capabilities, the company could contribute to the visualization and design of advanced aerospace systems, enhancing collaboration between engineers, scientists, and stakeholders. Sourceduty's proficiency in creating efficient workflows and automating repetitive tasks could also streamline aspects of rocket engineering, such as quality control of digital prototypes or optimization of designs for manufacturing.
 
-In contrast, Alex Aldridge’s work with Sourceduty takes a diversified and adaptive approach, allowing him to explore multiple creative avenues simultaneously. Sourceduty, which Aldridge founded in 2022, specializes in digital assets, such as 3D models and open-source AI tools, with a strong emphasis on collaboration and accessibility. Aldridge’s strategy is more flexible and community-driven, enabling him to pursue a range of smaller-scale projects rather than focusing on a single, overarching mission. By embracing open-source principles, he fosters a collaborative environment where digital resources are shared and collectively improved upon, allowing Sourceduty to continuously adapt to emerging trends in digital design and technology.
-
-While Musk and Aldridge’s approaches differ significantly in scale and focus, they share certain entrepreneurial qualities. Both are deeply involved in their ventures, hands-on in their leadership, and driven by a commitment to innovation. However, their philosophies on risk and growth diverge. Musk’s approach is centralized and high-risk, aimed at creating transformative changes within targeted industries, while Aldridge’s approach is more exploratory and distributed, fostering community-based innovation across a variety of digital spaces. These differences highlight the spectrum of modern entrepreneurship: from Musk’s focused ambition to Aldridge’s flexible, community-oriented model, each approach offers distinct paths to innovation and impact.
-
-> Alex: "*I can and I will soon concentrate on one large business project which I will hopefully repeat.*"
-
-#
-### Sourceduty
-
-Sourceduty embodies an unparalleled tenacity across the realms of law, business, and development. This relentless drive positions the company not merely as a participant but as a formidable contender in every arena it enters. In law, Sourceduty navigates complex regulatory landscapes with precision and an unyielding commitment to upholding its creative vision and intellectual property. Whether facing legal challenges or setting new precedents, the company’s strategic acuity ensures it operates from a position of strength, transforming potential setbacks into opportunities for innovation and growth.
+However, entering the aerospace sector would demand significant time and resources to develop domain-specific knowledge, establish partnerships, and meet the rigorous standards of the industry. While it might not be feasible in the short term, this could be a promising avenue for future growth. As Sourceduty continues to scale its capabilities, it could explore collaborations with aerospace companies, focusing on niche contributions like digital simulations, AR/VR applications, or space-themed media production. This phased approach would allow the company to align its strengths with industry needs while gradually building expertise in this cutting-edge field.
 
 #
 ### Recording a Starship Landing on Mars
