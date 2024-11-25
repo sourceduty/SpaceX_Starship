@@ -98,6 +98,14 @@ Iterating on the same design of rocket engines, as seen with SpaceX's Merlin ser
 
 Exploring multiple designs of the same type simultaneously, as SpaceX has done with engines like Raptor, fosters innovation and ensures robust solutions. The Raptor engine, a methane-powered full-flow staged combustion engine, exemplifies this strategy. Early prototypes explored varying chamber pressures, nozzle configurations, and material compositions to identify the most effective combination. This parallel development process enables engineers to test competing ideas in parallel, identify optimal design choices, and reduce development timelines for groundbreaking technologies.
 
+| Engine Name           | Fuel Type   | Cycle Type                    | Application                           | Status     |
+|-----------------------|-------------|-------------------------------|---------------------------------------|------------|
+| Merlin                | RP-1/LOX    | Gas Generator                 | Falcon 9 and Falcon Heavy            | Operational|
+| Raptor                | CH4/LOX     | Full-Flow Staged Combustion   | Starship                              | Operational|
+| Unicorn (concept)     | CH4/LOX     | Open-Cycle Combustion         | Hypothetical small payload missions  | Conceptual |
+| Echo (concept)        | LH2/LOX     | Expander Cycle                | High-efficiency interplanetary use   | Conceptual |
+| Alpha (concept)       | RP-1/LOX    | Staged Combustion             | High-performance Earth launchers     | Conceptual |
+
 Combining these approaches—iterating on a single design and developing multiple variants—offers SpaceX a strategic advantage. The refinement of designs like Merlin ensures reliability for ongoing missions, while the exploration of diverse designs, as with Raptor, sets the stage for future breakthroughs in performance and scalability. This dual strategy has been integral to SpaceX’s ability to push the boundaries of rocket engine technology, achieving both consistent operational reliability and pioneering innovations for interplanetary exploration.
 
 ***
