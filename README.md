@@ -108,6 +108,8 @@ Exploring multiple designs of the same type simultaneously, as SpaceX has done w
 
 Combining these approaches—iterating on a single design and developing multiple variants—offers SpaceX a strategic advantage. The refinement of designs like Merlin ensures reliability for ongoing missions, while the exploration of diverse designs, as with Raptor, sets the stage for future breakthroughs in performance and scalability. This dual strategy has been integral to SpaceX’s ability to push the boundaries of rocket engine technology, achieving both consistent operational reliability and pioneering innovations for interplanetary exploration.
 
+Developing more and more concepts is crucial for fostering innovation, as it creates a diverse pool of ideas and solutions that can be refined and tested over time. Each new concept brings fresh perspectives and possibilities, allowing for experimentation with different approaches, technologies, and methodologies. This process of ideation helps to identify the most promising avenues for progress, while also encouraging creative problem-solving and adaptability. Accumulating a variety of concepts ensures that innovation is not limited to a single path but can evolve through the exploration of multiple directions, ultimately accelerating advancements and breakthroughs in any field.
+
 ***
 
 ### Starship Notes
