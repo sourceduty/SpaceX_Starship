@@ -13,7 +13,7 @@ Moreover, the development of Starship is a testament to SpaceX's vision of makin
 #
 ### Elon Musk
 
-![Evil](https://github.com/user-attachments/assets/1c0a21a1-8b8e-4f50-8025-9a367d29bc8d)
+![Mail](https://github.com/user-attachments/assets/187f8a0a-cc74-426b-91bc-2af673e9ef9a)
 
 The era we live in, defined by rapid technological advancements and a globalized society, has seen the rise of superrare celebrities like Elon Musk, who embody the intersection of innovation, entrepreneurship, and public fascination. Musk's influence extends beyond the typical realms of business leaders, touching on space exploration, electric vehicles, and artificial intelligence. His ventures with companies like SpaceX, Tesla, and Neuralink not only push the boundaries of what is technologically possible but also capture the public's imagination. Musk's ability to communicate directly with millions through platforms like Twitter amplifies his reach, allowing him to influence public discourse, inspire new generations of entrepreneurs, and even sway financial markets with a single tweet. His celebrity status is not merely about wealth or recognition; it represents a new form of cultural leadership in which visionaries can shape the future of humanity in real-time.
 
@@ -43,6 +43,8 @@ In terms of performance, the system quickly delivers results, providing speeds e
 
 #
 ### Live Twice on Two Planets
+
+![Evil](https://github.com/user-attachments/assets/1c0a21a1-8b8e-4f50-8025-9a367d29bc8d)
 
 SpaceX's Starship is designed with ambitious goals, aiming to revolutionize space travel and exploration. One of its primary missions is to transport humans to Mars, aligning with Elon Musk's long-term vision of making life multi-planetary. Starship's reusable design and massive payload capacity are expected to drastically reduce the cost of space travel, making large-scale missions to the Moon, Mars, and beyond feasible. It will carry astronauts, cargo, and even infrastructure for establishing human colonies on these extraterrestrial bodies, marking a significant leap in human space exploration.
 
