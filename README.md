@@ -80,7 +80,7 @@ Once the spacecraft nears the surface, the satellite camera would focus on the p
 In addition to the landing, the satellite camera could continue to monitor Starship’s activities on the surface. By capturing high-resolution imagery and video, the satellite would offer valuable data on the landing site's conditions and changes over time. This information would be crucial for future missions, providing insights into the stability of the landing zone, potential hazards, and environmental factors. Ultimately, visually recording the landing from orbit would not only create a stunning and scientifically useful record but also bring the excitement of interplanetary exploration to audiences on Earth.
 
 #
-### Mechazilla 2.0
+### Mechazilla 2.0 (Twin Towers)
 
 ![Mechazilla 2 0](https://github.com/user-attachments/assets/0065ba0e-f55c-4d58-ad03-d0bd63d34340)
 
